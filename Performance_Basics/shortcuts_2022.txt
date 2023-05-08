@@ -1,0 +1,33 @@
+Ctrl + L - Parametrization
+F4 - Runtime settings
+F5 - Run/Execution
+F10 - Compilation step by step / Debugging
+ctrl+Space - intelisense
+F1 -Help on functions or keywords
+F9 -Debugging point
+Ctrl+T - start Transactions
+Ctrl+Shift+T - End transaction
+
+CPU utilization for any server - 70%
+
+NFR:
+Infrastructure
+Load at peak hours/Transaction details
+scalability
+response times SLA
+Server metrics
+
+Little's law
+
+No of conc usres = TPS * (SET + pacing)
+SET = ResponseTime + ThinkTime
+SET - Script Execution Time
+
+Shakedown Test/Dry Run test:
+Scripts working fine ?
+Env up and running ?
+Data issues ?
+LG issues ?
+
+replay, page or http 
+runtime viewer

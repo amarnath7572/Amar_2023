@@ -1,0 +1,167 @@
+﻿Date,Strengths,Value,Loves,Loathes,Needs,Priorities
+11/14/2022,4,4,"iHUB:
+- completed WFN - CGC - IH testing 
+- Retested reopen defects
+- Supporting tarak on Automation deliverables",,,"Performance executions for FP release
+
+Progress on reopen performance testing
+
+iHUB KT sessions to Kristyna and Srinivas"
+11/07/2022,4,4,"iHUB:
+- Reopen messages testing and Demo
+- Prod issues RCA
+- defects retesting
+- Working on WFN - iH integration
+
+Performance:
+- Completed Tax statement API testing
+- Reported results and uploaded documents to confluence
+- Took Performance executions session for the team",,,"Progress on WFN-IHUB integration
+
+Reopen testing - Functional and performance
+
+Support iHUB automation"
+10/31/2022,4,4,"Performance:
+- Completed Tax statement APIs testing - Image, List, ID
+
+iHUB:
+- Reopen testing in progress",,,"Follow up on FU and FQ portal issues
+
+Prod issue - users not displayed
+
+Reopen messages - Functional and Performance tests
+
+Support iHUB Automation"
+10/24/2022,4,4,"iHUB:
+- Review Regression TCs for Automation and support Tarak
+- Gave Auto closure Demo
+- Reopen messages requirements discussion
+
+Performance:
+- Completed Pay statement APIs
+- Completed Tax statement APIs
+- Pipeline updated for October
+- Working on Template for Performance checks
+
+SDE and SSL:
+- KT Sessions",,,"Reopen messages - Functional and Performance tests
+
+Support iHUB Automation"
+10/17/2022,4,4,"iHUB :
+- Completed Auto closure testing
+- Ran performance tests for landing page and home page of iHUB in FT1 and FT2
+- Automation TCs for regression testing
+- Celergo - New Hire workflow testing
+
+Performance:
+- Ran regression scripts for WD and Oracle",,,"Performance testing - Marketplace APIs
+
+Work on Celergo workflows
+
+Progress on Automation for iHUB"
+10/10/2022,4,4,"iHUB:
+- Auto closure testing: coordinating with Oracle, WD, SFSF SMEs
+- Prod issue replication
+- Automation support to Tarak
+- Regression TCs coordination with Aravind",,,"Follow up on Regression testing for iHUB, SDE and SSL
+
+Progress on Prod issue
+
+Progress on Auto closure testing
+
+Progress on performance testing - Marketplace"
+10/03/2022,4,4,"iHUB - Auto closure
+- WDAY: Completed 4 scenarios for Delimited
+- SFSF: Completed 2 scenarios 
+- Oracle: Started testing in S1
+
+iHUB - Automation
+- Coordinating with Tarak on Filters
+
+SDE and SSL:
+- KT session given by Swetha
+- Need to go through TCs and application
+
+Performance Testing
+- Blocked with paystatement ID testing",,,"Progress on performance testing - Marketplace
+
+Coordinate with Automation tasks - iHUB
+
+Build SDE and SSL application functional knowledge
+
+Progress on Auto closure testing"
+09/26/2022,4,4,"Marketplace:
+- Completed workers API testing and shared the results
+- Pay statement ID API testing in progress
+
+iHUB:
+- Auto closure testing in progress
+- Prod issue in Celergo Solution Activation is tested
+
+- Performance Pipeline items updated
+- Celergo Trainings
+- Review of iHUB Automation and inputs given to Tarak",,"Feedback regarding promotion and expectation from Sridhar considering for next cycle","Performance Testing - Reopen of messages
+
+Work with Swetha to co-ordinate SSL testing deliverables
+
+Auto closure testing - CGC
+
+Marketplace APIs testing
+
+Work with Tarak on Automation Progress"
+09/19/2022,4,4,"Marketplace:
+- Completed Demographics multiple API testing
+- Completed Workers Single API testing
+- Completed Workers multiple API testing
+- Documented results and uploaded to sharepoint
+
+iHUB:
+- Completed Dashboard testing in FT1 and FT2 for GV and CGC
+
+Regression
+- Completed WD and Oracle Regression in TD3",,,"Work with Tarak on Automation Progress
+
+Auto closure testing - CGC
+
+Marketplace APIs testing"
+09/12/2022,4,4,"Marketplace: Performance
+- Demographics API KT, Setup and Scripting
+- Completed Execution and Reporting
+
+iHUB
+- Test Case Preparation for Auto Closure - Celergo
+- Test Case prioritization - Automation
+- Celergo Dashboard - Defect Retesting and Regression
+
+KT and Meetings
+- Celergo trainings
+- Celergo Auto closure end to end flow",,,"Work on Celergo trainings
+
+Progress on Auto closure testing for celergo
+
+Pickup next set of Marketplace APIs"
+09/05/2022,4,4,"Marketplace APIs:
+- Completed scripting, execution and reporting of Pay statement List API
+- Completed scripting, execution and reporting of Pay statement Image API
+- KT and Setup of workers API
+
+iHUB:
+- KT on celergo Auto closure
+- TC preparation for Auto Closure
+- Prod issue Debugging on Celergo Dashboard
+
+Regression:
+- Ran performance scripts for Workday
+
+Learnings - Performance for Cloud",,,"Progress on Celergo Auto Closure testing
+
+Progress on Marketplace APIs"
+08/29/2022,4,4,"Marketplace APIs:
+- KT and Setup completed for Pay statement APIs - List and Image
+- Scripting is completed
+- Execution is in progress
+
+iHUB
+- Test Data setup and update in confluence",,,"Compass Deliverables - Functional and Automation
+
+Progress on Marketplace APIs"
