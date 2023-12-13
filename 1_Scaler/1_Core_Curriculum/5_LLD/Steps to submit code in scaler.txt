@@ -1,0 +1,11 @@
+1. git clone repo link
+2. Open the folder in eclipse
+3. OPen the folder in eclipse terminal - right click on folder and show in terminal
+4. Switch the branch : git checkout -b staging
+5. Do the code as per scaler instructions
+6. After the code, add files to git
+git add .
+7. committing the file
+git commit -m "message"
+8. push the code
+git push origin staging
